@@ -5,7 +5,7 @@
 
 📍 Seattle, WA &nbsp;|&nbsp; 🎓 MS Data Science, Seattle University &nbsp;|&nbsp; 🟢 Open to Work
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/venkat-saketh-3030a4334)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/venkat-saketh-3030a4334](https://www.linkedin.com/in/venkat-saketh-175965391/))
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:venkat2026.seattleu@gmail.com)
 
 </div>
