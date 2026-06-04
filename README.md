@@ -105,4 +105,4 @@ I am actively looking for **Data Scientist, ML Engineer, and AI Engineer** roles
 
 **F1 OPT — authorized to work in the US immediately, no sponsorship required for 3 years.**
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/venkat-saketh-3030a4334)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkat-saketh-175965391/)
